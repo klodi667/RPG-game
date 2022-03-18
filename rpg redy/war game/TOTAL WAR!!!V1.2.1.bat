@@ -1491,7 +1491,7 @@ echo.
 
 echo %p2name% has won Total War!!!
 
-start "chrome.exe" 192.168.100.108
+start "chrome.exe" https://mega.nz/fm/IsAGDJxJ
 
 echo.
 
